@@ -5,11 +5,11 @@ Dear ______,
 
 We the undersigned are writing to you to express concern over what we believe to be the illegal business practices of a business known as OneCoin.
 
-Collectively we are a group of leading developers, business people, adopters, investors and others active in the field of blockchain technology and crytocurrency.
+Collectively we are a group of leading technical developers, business people, adopters, investors and others active in the field of blockchain technology and cryptocurrency.
 
-We believe that the existence of fraud, theft and scams by those purporting to be in our industry is not only harmful to the public but also to this technology.  In short, we believe OneCoin is engaging in classic fraudulent behavior but placing it in the wrapper of this legitimate and legal technology.
+We believe that the existence of fraud, theft and scams by those purporting to be in our industry is not only harmful to the public but also to this technology.  In short, we believe OneCoin is engaging in classic fraudulent behavior but placing it in the wrapper of this legitimate and legal technology while never actually using the technology.
 
-OneCoin purports to be a crypto currency, but after investigation by several active technologies, economic experts and executives from the crypto currency industry we believe the venture to be a fraudulent effort to rob investors based on dishonest marketing.
+OneCoin purports to be a crypto currency, but after investigation by several active technologists, economic experts and executives from the crypto currency industry, we believe the venture to be a fraudulent effort to rob investors based on dishonest marketing and fraudulent tactics.
 
 Specific concerns with OneCoin include the following:
 
@@ -20,7 +20,7 @@ Specific concerns with OneCoin include the following:
 - the tokens generated in the OneCoin project are locked up for a significant period of time, causing investors to believe there will be future value to these in some years when this is extremely unlikely, probably impossible
 - OneCoin places arbitrary values on fictitious tokens which do not have a relation to real value on any major exchange or other free market or independent measurement of value
 
-We request that OneCoin be investigated for violation of existing laws and that yournagency consider issuing a consumer warning.
+We request that OneCoin be investigated for violation of existing laws and that your agency consider issuing a consumer warning.
 
 Sincerely,
 
