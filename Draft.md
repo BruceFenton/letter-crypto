@@ -24,4 +24,5 @@ We request that OneCoin be investigated for violation of existing laws and that 
 
 Sincerely,
 
+[Please add your name and either company or a couple words on background / credentials) 
 
