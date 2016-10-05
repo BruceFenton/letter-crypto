@@ -14,6 +14,7 @@ OneCoin purports to be a crypto currency, but after investigation by several act
 Specific concerns with OneCoin include the following:
 
 - OneCoin promises extremely high rates of return bordering on the mathematically impossible
+- OneCoin claims to be backed with a "blockchain" there is no evidence that there really is such a blockchain by any readable definition 
 - OneCoin has lack of transparency as to what exactly it is offering to its investors
 - OneCoin claims to be based on blockchain technology but there is no evidence that any such blockchain has been developed 
 - the marketing meetings and presentations of OneCoin make use of unsubstantiated claims and misleading information (such as the use of stock footage claiming it was "mining" a cryptocurrency
