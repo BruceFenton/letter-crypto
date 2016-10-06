@@ -9,7 +9,7 @@ Collectively we are a group of leading technical developers, business people, ad
 
 We believe that the existence of fraud, theft and scams by those purporting to be in our industry is not only harmful to the public but also to this technology.  In short, we believe OneCoin is engaging in classic fraudulent behavior but placing it in the wrapper of this legitimate and legal technology while never actually using the technology.
 
-OneCoin is a very large global network with many patricipants.  OneCoin purports to be a crypto currency, but after investigation by several active technologists, economic experts and executives from the crypto currency industry, we believe the venture to be a fraudulent effort to rob investors based on dishonest marketing and fraudulent tactics.
+OneCoin is a very large global network with many participants.  OneCoin purports to be a crypto currency, but after investigation by several active technologists, economic experts and executives from the crypto currency industry, we believe the venture to be a fraudulent effort to rob investors based on dishonest marketing and fraudulent tactics.
 
 Specific concerns with OneCoin include the following:
 
